@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "177848422912",
+    "project_id": "itemize-a74a1",
+    "storage_bucket": "itemize-a74a1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:177848422912:android:8491fbd0ce99cfe05dbee5",
+        "android_client_info": {
+          "package_name": "com.jtech.itemize"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "177848422912-tasosa4d6g4ur1r0prnl9i3ogclunhug.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jtech.itemize",
+            "certificate_hash": "19c8d8dd384b590370658d02b04322921018d246"
+          }
+        },
+        {
+          "client_id": "177848422912-36qo00ddt2d6tu4fqki6nl6pjbme237v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPrR7FrWJIuuzbhslyRezD4hUNqfSKyFQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "177848422912-36qo00ddt2d6tu4fqki6nl6pjbme237v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
